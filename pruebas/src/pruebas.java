@@ -3,3 +3,10 @@ public class pruebas {
         System.out.println("hola soy brayan");
     }
 }
+
+
+public class pruebas {
+    public static void main (String[]args){
+        System.out.println("hola soy miguel");
+    }
+}
